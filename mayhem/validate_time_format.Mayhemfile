@@ -1,0 +1,5 @@
+project: lsd
+target: validate_time_format
+
+cmds:
+  - cmd: /validate_time_format
